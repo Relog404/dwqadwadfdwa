@@ -1,0 +1,1 @@
+.spinner.svelte-ssmtps{color:var(--spinner-color,var(--icon-tertiary));justify-content:center;align-items:center;margin:0 auto;display:flex;overflow:hidden}.spinner.svelte-ssmtps svg{animation:1s linear infinite svelte-ssmtps-spin}@keyframes svelte-ssmtps-spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}

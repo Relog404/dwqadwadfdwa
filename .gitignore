@@ -1,0 +1,5 @@
+data/
+extracted/
+style_src/
+node_modules/
+__pycache__/
